@@ -9,7 +9,7 @@ It integrated extensible protocol for encoding/decoding, high-performance RPC co
 
 Nowadays it's used by hundreds of bussiness in Tencent, services that developed base on TAF run on 16 thousands of machines.
 
-See the detailed introduction [Introduction.md](Introduction.md).
+See the detailed introduction [SUMMARY.md](https://tarscloud.github.io/TarsDocs_en/).
 
 ## Supported platforms
 For now it supports OS as below:
@@ -28,12 +28,9 @@ For now it supports following languages:
  
 ## Installation 
 
-If you are new to Tars, please read documentation [Install.md](Install.md).
-If you are familar to Tars, refer to scripts in directory [build](build), may some modification needed.
-
-## Performance
-
-See [tars_performce.md](docs/tars_performce.md).
+1. If you are new to Tars, please read documentation [anzhuang](https://tarscloud.github.io/TarsDocs_en/rumen/an-zhuang/).
+2. First deploy, please read documentation [source](https://tarscloud.github.io/TarsDocs_en/rumen/an-zhuang/source.html).
+3. Install by docker, detail information: [docker](https://tarscloud.github.io/TarsDocs_en/rumen/an-zhuang/docker.html)。
 
 ## Submodule
 
@@ -50,17 +47,18 @@ web               |manage tars web source implementation
 
 ## Developer's documentation
 
-See [docs](docs).
+See [docs](https://github.com/TarsCloud/TarsDocs_en).
 
 ## License
 
-The open-source protocol Tars used is BSD-3-Clause, see [LICENSE.TXT](LICENSE.TXT).
+The open-source protocol Tars used is BSD-3-Clause, see [LICENSE.md](https://tarscloud.github.io/TarsDocs_en/license.html).
 
 ## Contacts
 
-qq group code-1：579079160 (full)
+qq group code-1: 579079160 
 
-qq group code-2：579079160
+qq group code-2: 669339903
 
-WeChat：TARS01
+WeChat: TARS01
 
+Twitter: https://twitter.com/TarsCloud
